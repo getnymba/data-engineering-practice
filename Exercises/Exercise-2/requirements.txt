@@ -1,2 +1,6 @@
 requests==2.27.1
 pandas==1.4.1
+bs4
+aiohttp        
+aiofiles
+asyncio

@@ -1,1 +1,6 @@
 requests==2.27.1
+zipfile
+os
+aiohttp        
+aiofiles
+asyncio
